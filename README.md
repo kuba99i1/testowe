@@ -1,6 +1,6 @@
 # testowe
 
-#Drugi punkt  
+# Drugi punkt  
 zapomnialem skonstruowac styl strony
-#Trzeci punkt
+# Trzeci punkt
 todo- uzupelnic braki danych,
